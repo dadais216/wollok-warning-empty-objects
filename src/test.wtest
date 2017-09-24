@@ -1,0 +1,8 @@
+import example.*
+
+test "testX" {
+	assert.that(wollok.howAreYou()=='I am Wolloktastic!')
+}
+test "use empty"{
+	assert.equals(wollok.getEmpty(),empty)
+}
