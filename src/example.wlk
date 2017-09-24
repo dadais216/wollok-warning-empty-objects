@@ -1,6 +1,4 @@
-object empty{
-	
-}
+object empty{}
 
 object wollok {
 	method howAreYou() {
